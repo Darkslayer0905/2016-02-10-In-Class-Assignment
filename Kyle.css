@@ -7,11 +7,11 @@ h1{
   width: 90%;
   margin-right: auto;
   margin-left:  auto;
-  color: #008800;
+  color: #000077;
   font-family: fantasy;
   font-size: 72px;
   text-align: center;
-  background-color: rgb( 0, 69, 80);
+  background-color: rgb( 160, 40, 0);
 }
 
 
@@ -26,4 +26,28 @@ p {
 img{
   height: auto;
   display: block;
+}
+
+p {
+  font-family: cursive;
+  margin-top: 2em;
+}
+
+a {
+  margin: 2em auto 4em auto;
+  display: table;
+  color: white;
+  font-family: inherit;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.5em;
+  background-color: black;
+}
+
+a:hover{
+  background-color: red;
+}
+
+a:active{
+  background-color: blue; 
 }
