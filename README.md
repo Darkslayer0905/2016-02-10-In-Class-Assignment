@@ -6,4 +6,4 @@ Introduction to Class
 
 Including Images
 
-Including Google Web fonts
+Including Google Webfont
